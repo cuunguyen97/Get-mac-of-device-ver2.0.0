@@ -1,0 +1,16 @@
+../Src/main.c:176:5:main	8	static
+../Src/main.c:194:13:appInitCommon	8	static
+../Src/main.c:211:13:setStateApp	16	static
+../Src/main.c:221:19:getStateApp	4	static
+../Src/main.c:231:13:appStateManager	16	static
+../Src/main.c:267:13:processedUartReceivedNewsOfTouch	16	static
+../Src/main.c:279:13:processedUartReceivedNewsOfZigbeeAndBLE	96	static
+../Src/main.c:661:13:procUartCmd	24	static
+../Src/main.c:679:13:hexToAscii	32	static
+../Src/main.c:713:6:printMACLcd	96	static
+../Src/main.c:748:6:printEndPointCnt	120	static
+../Src/main.c:790:6:printVersion	128	static
+../Src/main.c:843:6:printModelId	96	static
+../Src/main.c:869:6:printProductID	96	static
+../Src/main.c:895:6:printTypeMCU	96	static
+../Src/main.c:917:6:getModelID	24	static

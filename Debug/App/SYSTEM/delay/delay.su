@@ -1,0 +1,2 @@
+../App/SYSTEM/delay/delay.c:18:10:dwCalculatorTime	16	static
+../App/SYSTEM/delay/delay.c:28:6:delay_ms	24	static

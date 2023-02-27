@@ -1,0 +1,3 @@
+../App/Middle/menu/menu.c:66:14:getModeTest	16	static
+../App/Middle/menu/menu.c:96:9:getChooseRows	48	static
+../App/Middle/menu/menu.c:175:6:prinfPoint	16	static

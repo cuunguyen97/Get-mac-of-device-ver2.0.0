@@ -1,0 +1,3 @@
+../App/Middle/SPI/SPI.c:24:4:SPI_WriteByte	16	static
+../App/Middle/SPI/SPI.c:41:6:SPI_SetSpeed	16	static
+../App/Middle/SPI/SPI.c:62:6:SPI1_Init	40	static

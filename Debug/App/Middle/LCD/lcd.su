@@ -1,0 +1,15 @@
+../App/Middle/LCD/lcd.c:30:6:LCD_WR_REG	16	static
+../App/Middle/LCD/lcd.c:45:6:LCD_WR_DATA	16	static
+../App/Middle/LCD/lcd.c:61:6:LCD_WriteReg	16	static
+../App/Middle/LCD/lcd.c:74:6:LCD_WriteRAM_Prepare	8	static
+../App/Middle/LCD/lcd.c:86:6:Lcd_WriteData_16Bit	16	static
+../App/Middle/LCD/lcd.c:101:6:LCD_SetColorPoint	16	static
+../App/Middle/LCD/lcd.c:113:6:LCD_DrawPoint	16	static
+../App/Middle/LCD/lcd.c:126:6:LCD_Clear	24	static
+../App/Middle/LCD/lcd.c:152:6:LCD_ClearCursor	40	static
+../App/Middle/LCD/lcd.c:177:6:LCD_GPIOInit	16	static
+../App/Middle/LCD/lcd.c:198:6:LCD_RESET	8	static
+../App/Middle/LCD/lcd.c:215:6:LCD_Init	8	static
+../App/Middle/LCD/lcd.c:331:6:LCD_SetWindows	24	static
+../App/Middle/LCD/lcd.c:356:6:LCD_SetCursor	16	static
+../App/Middle/LCD/lcd.c:371:6:LCD_direction	16	static

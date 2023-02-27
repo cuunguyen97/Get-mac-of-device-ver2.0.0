@@ -1,0 +1,2 @@
+../App/Middle/qr-code-to-lcd/qrcode-to-lcd.c:74:6:generateQRCode	88	dynamic
+../App/Middle/qr-code-to-lcd/qrcode-to-lcd.c:142:9:checkDataLength	16	static
